@@ -1,7 +1,7 @@
 <?php
 /** Datos de conexion a base de datos, bajo constantes. */
     const DB_SERVER="localhost";
-    const DB_NAME="typesquizzesbd";
+    const DB_NAME="typesqasdb";
     const DB_USER="root";
     const DB_PASS="";
     const DB_PORT="3306";
