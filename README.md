@@ -1,0 +1,1 @@
+TypesQAs V1.MVP - Public software for public educational institutions, a system created to carry out exams, tests, surveys, among others. Future versions will be implemented and may generate additional prices for use by private institutions.
